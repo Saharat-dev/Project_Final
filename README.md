@@ -7,7 +7,7 @@
 -fire base realtime database
 -Dialog
 
-![alt text](https://o.remove.bg/uploads/0f7f800e-0fdd-48cc-a926-2fb68ed372ac/1.PNG) 
+![alt text](https://o.remove.bg/uploads/f494fec0-84d4-4fb0-bd74-c141ac183eba/1.PNG) 
 //หน้า login
 
 ![alt text](https://o.remove.bg/uploads/26270a56-2ac2-4048-9707-d7cfe0dc5a29/2.PNG) 
